@@ -1,6 +1,14 @@
-﻿namespace EcoPower_Logistics.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[Authorize]
+public class DevicesController : Controller
 {
-    public class DevicesController
+    private readonly OrderRepository _ordersRepository;
+
+    public DevicesController(OrderRepository ordersRepository)
     {
+        _ordersRepository = ordersRepository;
     }
+
 }

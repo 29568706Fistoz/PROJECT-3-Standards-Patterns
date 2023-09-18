@@ -30,7 +30,7 @@ public class CustomerRepository
 
         if (customer == null)
         {
-            throw new NotFoundException("Customer not found"); // You can create a custom exception class for this
+            throw new NotFoundException("Customer not found"); 
         }
 
         return customer;

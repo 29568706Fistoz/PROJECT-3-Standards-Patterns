@@ -1,6 +1,14 @@
-﻿namespace EcoPower_Logistics.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[Authorize]
+public class ZonesController : Controller
 {
-    public class ZonesController
+    private readonly CustomerRepository _customersRepository;
+
+    public ZonesController(CustomerRepository customersRepository)
     {
+        _customersRepository = customersRepository;
     }
+
 }

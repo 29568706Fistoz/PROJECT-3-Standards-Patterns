@@ -1,6 +1,14 @@
-﻿namespace EcoPower_Logistics.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[Authorize]
+public class CategoriesController : Controller
 {
-    public class CategoriesController
+    private readonly ProductRepository _productsRepository;
+
+    public CategoriesController(ProductRepository productsRepository)
     {
+        _productsRepository = productsRepository;
     }
+
 }
