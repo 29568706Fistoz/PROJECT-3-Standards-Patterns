@@ -50,7 +50,7 @@ As part of this project, I was expected to understand architectural patterns as 
 - I created repository classes that will contain all data access operations relating to Orders, Customers and Products.
   
 ### Transfer data access operations:
-- I transfered all data access operations from the Devices controller to the Orders Repository class,
+- I transferred all data access operations from the Devices controller to the Orders Repository class,
 - from the Zones controller to the Customers Repository class,
 - and from the Categories controller to the Products Repository class.
 
@@ -61,13 +61,13 @@ As part of this project, I was expected to understand architectural patterns as 
 
 # Project Close-out
 ### Security:
-- I ensured that no credentials are stored on GitHub.
+- I ensured that no credentials were stored on GitHub.
   
 ### Web API Cloud Hosting:
 - Created an App Service.
-- Finally I published my App to the service hosted on Azure and ensured that the App is secure and accessible
+- Finally, I published my App to the service hosted on Azure and ensured that the App was secure and accessible
 
 # Project 3 GitHub Link
-- [ ] 
+- [ ] https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706
 
 # References
