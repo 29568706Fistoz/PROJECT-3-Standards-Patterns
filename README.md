@@ -70,9 +70,12 @@ As part of this project, I was expected to understand architectural patterns as 
 # Project 3 GitHub Link
 - [ ] https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706
 
+# Azure website Link
+- [ ] https://project2api20230911211017.azurewebsites.net/Identity/Account/Login
+
 # References
-- Repository pattern C# (2020) YouTube. Available at: https://www.youtube.com/watch?v=yu9EDcX-NMI (Accessed: 21 September 2023).
-- Repository pattern in ASP Net core (2019) YouTube. Available at: https://www.youtube.com/watch?v=qJmEI2LtXIY (Accessed: 21 September 2023).
+- Repository pattern C# (2020) YouTube. Available at: https://www.youtube.com/watch?v=yu9EDcX-NMI (Accessed: 20 September 2023).
+- Repository pattern in ASP Net core (2019) YouTube. Available at: https://www.youtube.com/watch?v=qJmEI2LtXIY (Accessed: 19 September 2023).
 - Karayiannis, C. (2019) Web-based projects that rock the class [Preprint]. doi:10.1007/978-1-4842-4463-0.
 - Mezei, R.A. (2023) ‘Introduction’, Introduction to the Development of Web Applications Using ASP .Net (Core) MVC, pp. 1–3. doi:10.1007/978-3-031-30626-6_1.
-- ASP.NET core MVC 2022 - 7. dependency injection + repository pattern (2022) YouTube. Available at: https://www.youtube.com/watch?v=o3258sYHhng (Accessed: 21 September 2023). 
+- ASP.NET core MVC 2022 - 7. dependency injection + repository pattern (2022) YouTube. Available at: https://www.youtube.com/watch?v=o3258sYHhng (Accessed: 17 September 2023). 
