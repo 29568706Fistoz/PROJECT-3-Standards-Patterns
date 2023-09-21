@@ -47,7 +47,7 @@ As part of this project, I was expected to understand architectural patterns as 
 
 # Design Pattern Implementation
 ### Created Repository Classes:
-- I created repository classes that will contain all data access operations relating to Orders, Customers and Products.
+- I created repository classes that will contain all data access operations relating to Orders, Customers, and Products.
   
 ### Transfer data access operations:
 - I transferred all data access operations from the Devices controller to the Orders Repository class,
@@ -72,4 +72,7 @@ As part of this project, I was expected to understand architectural patterns as 
 
 # References
 - Repository pattern C# (2020) YouTube. Available at: https://www.youtube.com/watch?v=yu9EDcX-NMI (Accessed: 21 September 2023).
-- Repository pattern in asp net core (2019) YouTube. Available at: https://www.youtube.com/watch?v=qJmEI2LtXIY (Accessed: 21 September 2023). 
+- Repository pattern in ASP Net core (2019) YouTube. Available at: https://www.youtube.com/watch?v=qJmEI2LtXIY (Accessed: 21 September 2023).
+- Karayiannis, C. (2019) Web-based projects that rock the class [Preprint]. doi:10.1007/978-1-4842-4463-0.
+- Mezei, R.A. (2023) ‘Introduction’, Introduction to the Development of Web Applications Using ASP .Net (Core) MVC, pp. 1–3. doi:10.1007/978-3-031-30626-6_1.
+- ASP.NET core MVC 2022 - 7. dependency injection + repository pattern (2022) YouTube. Available at: https://www.youtube.com/watch?v=o3258sYHhng (Accessed: 21 September 2023). 
