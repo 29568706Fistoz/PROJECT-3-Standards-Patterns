@@ -71,3 +71,5 @@ As part of this project, I was expected to understand architectural patterns as 
 - [ ] https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706
 
 # References
+- Repository pattern C# (2020) YouTube. Available at: https://www.youtube.com/watch?v=yu9EDcX-NMI (Accessed: 21 September 2023).
+- Repository pattern in asp net core (2019) YouTube. Available at: https://www.youtube.com/watch?v=qJmEI2LtXIY (Accessed: 21 September 2023). 
