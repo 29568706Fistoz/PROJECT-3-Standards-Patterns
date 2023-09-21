@@ -1,7 +1,7 @@
 ## CMPG-323-Project-3---29568706
 
 # EcoPower_Logistics
-[https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/3#issue-1906825098](https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/3#issue-1906825098)
+(https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/3#issue-1906825098)
 
 # Table of Content
 - Project Description
@@ -25,14 +25,23 @@ As part of this project, I was expected to understand architectural patterns as 
 ### Create and Configure GitHub Repository:
 - Created a repository named ‘CMPG 323 Project 3 - 29568706
 - Created a ReadME.md file that will be used to describe my project and how stakeholders are to use the report that I have developed
+  
 ### Project Progress:
 - I ensured that the solution has been committed and pushed to source control throughout the project
 - I ensured that the GitHub project has been updated iteratively throughout the project to demonstrate how progress was made
 
 # Project Setup
+### Access the existing project:
+- I Forked the existing GitHub repository.
+- I then created a new development branch on my repository to work on.
+
+### Connected the Web App to the data source:
+- In the appsettings.json file I added the connection string to my hosted database.
 
 # Design Pattern Implementation
-
+### Created Repository Classes:
+- 
+### Transfer data access operations:
 # Project Close-out
 
 # References
