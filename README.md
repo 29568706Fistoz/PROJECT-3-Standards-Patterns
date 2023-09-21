@@ -1,7 +1,7 @@
 ## CMPG-323-Project-3---29568706
 
 # EcoPower_Logistics
-https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/4#issue-1906888417
+[https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/4#issue-1906888417](https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/issues/5#issue-1906895657)
 
 # Table of Content
 - Project Description
