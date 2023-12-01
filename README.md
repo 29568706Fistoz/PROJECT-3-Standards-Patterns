@@ -1,5 +1,3 @@
-## CMPG-323-Project-3---29568706
-
 # EcoPower_Logistics
 ![ecoPic](https://github.com/29568706Fistoz/CMPG-323-Project-3---29568706/assets/141215973/c8882f53-a128-4c8f-bafd-3c01c50223c1)
 
